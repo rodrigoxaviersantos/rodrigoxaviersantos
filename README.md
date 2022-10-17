@@ -21,8 +21,8 @@ I am an Information System graduate from Faculdade Pitágoras. I am a passionate
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigoxaviersantos&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoxaviersantos&layout=compact&langs_count=7&theme=apprentice"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rodrigoxaviersantos&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoxaviersantos&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
 
 <h2 align="center">  🧵 Main technologies</h2>  
