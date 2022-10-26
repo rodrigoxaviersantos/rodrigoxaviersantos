@@ -1,10 +1,23 @@
 <h1 align="center"> Hi, I’m Rodrigo Xavier! </h1>
 
-<p align="center"> About me </p>
 
-I am an Information System graduate from Faculdade Pitágoras. I am a passionate learner who is always willing to work on technologies. I love exploring new technologies and leveraging them to solve real-life problems. In addition, I also love connecting with people.  I am currently studying web programming.
+I am an Information System graduate from Faculdade Pitágoras. I am a passionate learner who is always willing to work on technologies. I love exploring new technologies and leveraging them to solve real-life problems. In addition, I also love connecting with people.
 
 
+
+<h2> About me </h2>
+
+
+<p align="center">
+
+     👨🏾‍💻 I am currently studying Python. 
+      
+     🛠 I have been focusing on learning about agile methodology. 
+   
+     🧵 I love exploring new piles of technology. 
+   
+     📰 Read whenever possible about technology. 
+<p />
 
 
 <h2 align="center"> 📫 Contact me </h2>
@@ -36,21 +49,9 @@ I am an Information System graduate from Faculdade Pitágoras. I am a passionate
   
 </div>
   
-<p align="center">
-🧔🏾‍♂️Personal stuff
-<p />
 
 
-<p align="center">
 
-       👨🏾‍💻 I am currently studying Python. 
-      
-       🛠 I have been focusing on learning about agile methodology. 
-   
-       🧵 I love exploring new piles of technology. 
-   
-       📰 Read whenever possible about technology. 
-<p />
      
 
 ##
@@ -81,4 +82,9 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
+
+<p align="center">
+🧔🏾‍♂️Personal stuff
+<p />
+
 --->
