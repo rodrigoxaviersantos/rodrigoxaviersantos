@@ -33,7 +33,7 @@ I am an Information System graduate from Faculdade Pitágoras. I am a passionate
 
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/rodrigoxaviersantos">
   <img height="125em" src="https://github-readme-stats.vercel.app/api?username=rodrigoxaviersantos&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
   <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoxaviersantos&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
@@ -41,7 +41,8 @@ I am an Information System graduate from Faculdade Pitágoras. I am a passionate
 <h2 align="center">  🧵 Main technologies</h2>  
 
 <div align="center">
-  
+     
+![Java](https://img.shields.io/badge/java-grey.svg?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
