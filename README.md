@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I’m Rodrigo Xavier! </h1>
 
 
-I am an enthusiast who is always willing to work with technologies. I love exploring new technologies and using them to solve real-life problems. In addition, I also enjoy connecting with people. I am currently studying software development using the technologies (Pseudocode, HTML/CSS/Bootstrap, Javascript and SQL Server database). 
+I am an enthusiast who is always willing to work with technologies. I love exploring new technologies and using them to solve real-life problems. In addition, I also enjoy connecting with people. I am currently studying software development using the technologies (pseudocode, html/css/bootstrap, javascript and sql server database). 
 
 
 
