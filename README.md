@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I’m Rodrigo Xavier! </h1>
 
 
-I am an Information System graduate from Faculdade Pitágoras. I am a passionate learner who is always willing to work on technologies. I love exploring new technologies and leveraging them to solve real-life problems. In addition, I also love connecting with people.
+I am an enthusiast who is always willing to work with technologies. I love exploring new technologies and using them to solve real-life problems. In addition, I also enjoy connecting with people. I am currently studying software development using the technologies (Pseudocode, HTML/CSS/Bootstrap, Javascript and SQL Server database). 
 
 
 
@@ -10,13 +10,14 @@ I am an Information System graduate from Faculdade Pitágoras. I am a passionate
 
 <p align="center">
 
-     👨🏾‍💻 I am currently studying Python. 
-      
-     🛠 I have been focusing on learning about agile methodology. 
-   
-     🧵 I love exploring new piles of technology. 
-   
-     📰 Read whenever possible about technology. 
+     👨🏾‍💻 I am currently studying Software Development
+       
+     🧵 I love exploring new technology stacks
+     
+     📰 I read whenever possible about technology
+     
+     🍵 I love a coffee without sugar
+
 <p />
 
 
@@ -42,11 +43,15 @@ I am an Information System graduate from Faculdade Pitágoras. I am a passionate
 
 <div align="center">
      
-![Java](https://img.shields.io/badge/java-grey.svg?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)
+
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
+![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117)
+![Java](https://img.shields.io/badge/java-grey.svg?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)
+
   
 </div>
   
