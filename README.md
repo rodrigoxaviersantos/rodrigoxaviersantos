@@ -25,8 +25,6 @@ I am an enthusiast who is always willing to work with technologies. I love explo
 
 <p align="center">   
   <a href="mailto:rodrigomxsantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
-  <a href="https://www.linkedin.com/in/rxaviersantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a> 
-  <a href="https://www.instagram.com/rodrigoxaviersantos_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
   <a href="https://twitter.com/rxaviersantos/" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F0DB4F"></a>
 </p>
 
