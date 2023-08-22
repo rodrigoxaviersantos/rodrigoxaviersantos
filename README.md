@@ -5,7 +5,9 @@ I am an enthusiast who is always willing to work with technologies. I love explo
 
 
 
-<h2> About me </h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigoxaviersantos&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigoxaviersantos" " /> </p>
+<h2> About me </h2>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigoxaviersantos&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigoxaviersantos" " /> <a href="#"><img src="https://badges.pufler.dev/visits/{rodrigoxaviersantos}/{rodrigoxaviersantos}"></a></p>
 
 
 
