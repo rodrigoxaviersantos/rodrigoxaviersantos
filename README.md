@@ -1,7 +1,25 @@
-<h1 align="center"> Hi, I’m Rodrigo Xavier! </h1>
+<h1 align="center"> Olá, eu sou Rodrigo Xavier!  </h1>
 
+Olá! 👋 Sou um entusiasta apaixonado por tecnologia, sempre motivado a explorar e aplicar novas soluções para desafios do mundo real. 🌐💻 Além disso, tenho um grande apreço pelo contato humano e pela troca de experiências.
+Atualmente, estou imerso nos estudos de desenvolvimento de software, mergulhando em diversas tecnologias e frameworks:
 
-I am an enthusiast who is always willing to work with technologies. I love exploring new technologies and using them to solve real-life problems. In addition, I also enjoy connecting with people. I am currently studying software development using the technologies (pseudocode, html/css/bootstrap, javascript and sql server database). 
+### Tecnologias:
+
+- Pseudocode: Fundamentos essenciais para a lógica de programação.
+
+- Versionamento de GIT: Gerenciamento eficiente do código-fonte para colaboração.
+
+- Modelagem de dados com MySQL e NoSQL: Dominando as bases de dados relacionais e não-relacionais.
+
+- Javascript, Java, C#: Linguagens poderosas para desenvolvimento backend e frontend.
+
+- DevOps: Compreendendo e aplicando as práticas de integração e entrega contínua.
+
+### Frameworks:
+
+- React, Spring Boot, Bootstrap, .Net: Explorando e aprimorando minhas habilidades em frameworks que impulsionam a eficiência e a robustez no desenvolvimento.
+Estou animado com o aprendizado contínuo e ansioso para contribuir com projetos inovadores. Vamos construir algo incrível juntos! 🚀✨
+
 
 
 
@@ -13,13 +31,13 @@ I am an enthusiast who is always willing to work with technologies. I love explo
 
 <p align="center">
 
-     👨🏾‍💻 I am currently studying Software Development
+     👨🏾‍💻 Atualmente estou estudando desenvolvimento de software
        
-     🧵 I love exploring new technology stacks
+     🧵  Adoro explorar novas pilhas de tecnologia
      
-     📰 I read whenever possible about technology
+     📰  Leio sempre que possível sobre tecnologia
      
-     🍵 I love a coffee without sugar
+     🍵  Adoro um café sem açúcar
 
 <p />
 
@@ -68,7 +86,7 @@ I am an enthusiast who is always willing to work with technologies. I love explo
 ## 
 
 <p align="center">
- ✨ "Climb the first step with faith. It is not necessary that you see the whole ladder. Just take the first step."   Martin Luther King   
+ ✨ "Suba o primeiro degrau com fé. Não é necessário que você veja a escada inteira. Basta dar o primeiro passo."   Martin Luther King  
 <p />
 
 
