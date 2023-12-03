@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=424242&height=120&section=header&text=%20&fontSize=90" />
+
 <h1 align="center"> Olá, eu sou Rodrigo Xavier!  </h1>
 
 
@@ -23,7 +25,15 @@ Atualmente, estou imerso nos estudos de desenvolvimento de software, mergulhando
 - React, Spring Boot, Bootstrap, .Net: Explorando e aprimorando minhas habilidades em frameworks que impulsionam a eficiência e a robustez no desenvolvimento.
 Estou animado com o aprendizado contínuo e ansioso para contribuir com projetos inovadores. Vamos construir algo incrível juntos! 🚀✨
 
-##
+About me   
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+- :mortar_board: Atualmente estou estudando desenvolvimento de software
+- 🌱 Adoro explorar novas pilhas de tecnologia
+- 🤔 Procurando código aberto para contribuir
+- :video_game: Hobby
+- 🍵 Adoro café sem açúcar
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 <h3 align="center">Languages and Tools:</h3>  
 
@@ -50,7 +60,44 @@ Estou animado com o aprendizado contínuo e ansioso para contribuir com projetos
 
 ##
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigoxaviersantos" alt="rodrigoxaviersantos" /></a> </p>  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigoxaviersantos&theme=gitdimmed" alt="rodrigoxaviersantos" /></a> </p>  
+
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigoxaviersantos&bg_color=424242&color=ffffff&line=ffffff&point=9a9b97&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<p align="center">
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=rodrigo_xsantos28&unique={true|1|on|yes}"/>
+
+</p>
+
+##
+
+
+##  
+## 
+
+<p align="center">
+ ✨ "Suba o primeiro degrau com fé. Não é necessário que você veja a escada inteira. Basta dar o primeiro passo."   Martin Luther King  
+<p />
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=424242&height=80&section=footer"/>
+</p>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<!---
 
 <h2> About me </h2>
 
@@ -67,30 +114,9 @@ Estou animado com o aprendizado contínuo e ansioso para contribuir com projetos
 
 <p />
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigoxaviersantos" alt="rodrigoxaviersantos" /></a> </p>  
 
 
-##
-
-
-##  
-## 
-
-<p align="center">
- ✨ "Suba o primeiro degrau com fé. Não é necessário que você veja a escada inteira. Basta dar o primeiro passo."   Martin Luther King  
-<p />
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-<!---
 rodrigoxaviersantos/rodrigoxaviersantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m @rodrigoxaviersantos
