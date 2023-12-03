@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, eu sou Rodrigo Xavier!  </h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigoxaviersantos&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigoxaviersantos" " /> <a href="#"><img src="https://badges.pufler.dev/visits/{rodrigoxaviersantos}/{rodrigoxaviersantos}"></a></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rodrigoxaviersantos&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigoxaviersantos" " /> <a href="#"><img src="https://badges.pufler.dev/visits/{rodrigoxaviersantos}/{rodrigoxaviersantos}"></a></p>
 
 Olá! 👋 Sou um entusiasta apaixonado por tecnologia, sempre motivado a explorar e aplicar novas soluções para desafios do mundo real. 🌐💻 Além disso, tenho um grande apreço pelo contato humano e pela troca de experiências.
 Atualmente, estou imerso nos estudos de desenvolvimento de software, mergulhando em diversas tecnologias e frameworks:
