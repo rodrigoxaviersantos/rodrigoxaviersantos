@@ -1,84 +1,75 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=424242&height=120&section=header&text=%20&fontSize=90" />
 
-<h1 align="center"> Olá, eu sou Rodrigo Xavier!  </h1>
+<p align=""> <img src="https://komarev.com/ghpvc/?username=rodrigoxaviersantos&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigoxaviersantos" " /> <a href="#"><img src="https://badges.pufler.dev/visits/{rodrigoxaviersantos}/{rodrigoxaviersantos}"></a></p>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rodrigoxaviersantos&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigoxaviersantos" " /> <a href="#"><img src="https://badges.pufler.dev/visits/{rodrigoxaviersantos}/{rodrigoxaviersantos}"></a></p>
-
-Olá! 👋 Sou um entusiasta apaixonado por tecnologia, sempre motivado a explorar e aplicar novas soluções para desafios do mundo real. 🌐💻 Além disso, tenho um grande apreço pelo contato humano e pela troca de experiências.
-Atualmente, estou imerso nos estudos de desenvolvimento de software, mergulhando em diversas tecnologias e frameworks:
-
-### Tecnologias:
-
-- Pseudocode: Fundamentos essenciais para a lógica de programação.
-
-- Versionamento de GIT: Gerenciamento eficiente do código-fonte para colaboração.
-
-- Modelagem de dados com MySQL e NoSQL: Dominando as bases de dados relacionais e não-relacionais.
-
-- Javascript, Java, C#: Linguagens poderosas para desenvolvimento backend e frontend.
-
-- DevOps: Compreendendo e aplicando as práticas de integração e entrega contínua.
-
-### Frameworks:
-
-- React, Spring Boot, Bootstrap, .Net: Explorando e aprimorando minhas habilidades em frameworks que impulsionam a eficiência e a robustez no desenvolvimento.
-Estou animado com o aprendizado contínuo e ansioso para contribuir com projetos inovadores. Vamos construir algo incrível juntos! 🚀✨
-
-About me   
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-- :mortar_board: Atualmente estou estudando desenvolvimento de software
-- 🌱 Adoro explorar novas pilhas de tecnologia
-- 🤔 Procurando código aberto para contribuir
-- :video_game: Hobby
-- 🍵 Adoro café sem açúcar
+<h3 align=""> 👨🏽‍💻 Sobre mim </h3>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-<h3 align="center">Languages and Tools:</h3>  
+```js
+import Desenvolvedor from "rodrigoxaviersantos";
 
-<p align="center">  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> </p>  
+class SobreMim extends Desenvolvedor {
+  nome = "Rodrigo Xavier";
+  area = "Desenvolvimento de Software";
+  trabalho = null;
+  local = null;
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["Java, C# e JavaScript"];
+  bibliotecas = ["React, Axios, Bootstrap, Next.js, Material-UI"];
+  frameworks = ["Spring, Spring Boot, .NET Framework Core, ASP.NET MVC"];
+}
+```
+
+<h3 align=""> ⛏️ Minhas Skills</h3>  
+
+<div align="">
+	<table>
+		<tr>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code></td>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code></td>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code></td>
+			<td><code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code></td>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code></td>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></code></td>
+		</tr>
+		<tr>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code></td>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></code></td>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code></td>
+			<td><code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code></td>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code></td>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code></td>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code></td>
+		</tr>
+	</table>
+</div>
+
+<p align="center">  </p>  
+
+<h3 align=""> 🚦 Github stats</h3>
 
 
-##
+<div align="">
+  <a href="https://github.com/rodrigoxaviersantos">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=rodrigoxaviersantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoxaviersantos&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-<h2 align="center"> 📫 Contact me </h2>
 
-<p align="center">   
+<h3 align=""> 📬 Contate-me </h3>
+
+<p align="">   
   <a href="mailto:rodrigomxsantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
   <a href="https://twitter.com/rxaviersantos/" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F0DB4F"></a>
 </p>
 
-<h2 align="center"> 🚦 Github stats</h2>
-
-
-<div align="center">
-  <a href="https://github.com/rodrigoxaviersantos">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=rodrigoxaviersantos&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoxaviersantos&layout=compact&langs_count=7&theme=apprentice"/>
-</div>
-
-##
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigoxaviersantos&theme=gitdimmed" alt="rodrigoxaviersantos" /></a> </p>  
-
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigoxaviersantos&bg_color=424242&color=ffffff&line=ffffff&point=9a9b97&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<p align="center">
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=rodrigo_xsantos28&unique={true|1|on|yes}"/>
-
-</p>
-
-##
-
-
-##  
-## 
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 <p align="center">
  ✨ "Suba o primeiro degrau com fé. Não é necessário que você veja a escada inteira. Basta dar o primeiro passo."   Martin Luther King  
