@@ -3,6 +3,12 @@
 <p align=""> <img src="https://komarev.com/ghpvc/?username=rodrigoxaviersantos&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigoxaviersantos" " /> <a href="#"><img src="https://badges.pufler.dev/visits/{rodrigoxaviersantos}/{rodrigoxaviersantos}"></a></p>
 
 <h3 align=""> 👨🏽‍💻 Sobre mim </h3>
+<p align="justify">
+Sou um Desenvolvedor Full Stack com formação em Sistemas de Informação e experiência como Analista de Qualidade e Teste de Software. Meu foco principal está em desenvolvimento backend, utilizando Java e C# em conjunto com frameworks como Spring Boot e .NET MVC. Tenho experiência na construção de serviços RESTful e na conexão com bancos de dados, incluindo MySQL e MongoDB.
+</p>
+<p align="justify">
+Além disso, possuo habilidades no consumo de APIs, utilizando ferramentas como Postman e Swagger para testes e integração. Busco constantemente aprender e me adaptar às novas tecnologias e melhores práticas da indústria.
+</p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
