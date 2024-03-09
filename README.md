@@ -1,60 +1,38 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=424242&height=120&section=header&text=%20&fontSize=90" />
+
 
 <p align=""> <img src="https://komarev.com/ghpvc/?username=rodrigoxaviersantos&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigoxaviersantos" " /> <a href="#"><img src="https://badges.pufler.dev/visits/{rodrigoxaviersantos}/{rodrigoxaviersantos}"></a></p>
 
 <h3 align=""> 👨🏽‍💻 Sobre mim </h3>
 <p align="justify">
-Sou um Desenvolvedor Full Stack com formação em Sistemas de Informação e experiência como Analista de Qualidade e Teste de Software. Meu foco principal está em desenvolvimento backend, utilizando Java e C# em conjunto com frameworks como Spring Boot e .NET MVC. Tenho experiência na construção de serviços RESTful e na conexão com bancos de dados, incluindo MySQL e MongoDB.
-</p>
-<p align="justify">
-Além disso, possuo habilidades no consumo de APIs, utilizando ferramentas como Postman e Swagger para testes e integração. Busco constantemente aprender e me adaptar às novas tecnologias e melhores práticas da indústria.
+Sou desenvolvedor Full Stack com formação em Sistemas de Informação e experiência em QA e Teste de Software. Foco em backend com Java e C#, utilizando Spring Boot e .NET MVC,construção de serviços API REST, modelagem de dados  e utilização de ferramentas como Postman e Swagger para testes e integração. 
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-```js
-import Desenvolvedor from "rodrigoxaviersantos";
-
-class SobreMim extends Desenvolvedor {
-  nome = "Rodrigo Xavier";
-  area = "Desenvolvimento de Software";
-  trabalho = null;
-  local = null;
-}
-
-class Skills extends Desenvolvedor {
-  linguagens = ["Java, C# e JavaScript"];
-  bibliotecas = ["React, Axios, Bootstrap, Next.js, Material-UI"];
-  frameworks = ["Spring, Spring Boot, .NET Framework Core, ASP.NET MVC"];
-}
-```
-
 <h3 align=""> ⛏️ Minhas Skills</h3>  
 
-<div align="">
-	<table>
-		<tr>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code></td>
-			<td><code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code></td>
-			<td><code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code></td>
-		</tr>
-	</table>
+<div align="" align="" style="display: flex; gap: 50px;">
+			<img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
+			<img width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
+			<img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
+			<img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
+			<img width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
+			<img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/>
+			<img width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
+			<img width="40" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/>
+			<img width="40" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
+			<img width="40" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/>
+			<img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
+			<img width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
+			<img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/>
+			<img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
+			<img width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
+			<img width="40" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/>
+	
+	
 </div>
+
+
 
 <p align="center">  </p>  
 
@@ -95,6 +73,29 @@ class Skills extends Desenvolvedor {
   
   
 <!---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=424242&height=120&section=header&text=%20&fontSize=90" />
+
+```js
+import Desenvolvedor from "rodrigoxaviersantos";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Rodrigo Xavier";
+  area = "Desenvolvimento de Software";
+  trabalho = null;
+  local = null;
+}
+
+<p align="justify">
+Além disso, possuo habilidades no consumo de APIs, utilizando ferramentas como Postman e Swagger para testes e integração. Busco constantemente aprender e me adaptar às novas tecnologias e melhores práticas da indústria.
+</p>
+
+class Skills extends Desenvolvedor {
+  linguagens = ["Java, C# e JavaScript"];
+  bibliotecas = ["React, Axios, Bootstrap, Next.js, Material-UI"];
+  frameworks = ["Spring, Spring Boot, .NET Framework Core, ASP.NET MVC"];
+}
+```
 
 <h2> About me </h2>
 
